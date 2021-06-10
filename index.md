@@ -1,30 +1,12 @@
-## Welcome to GitHub Pages
+# Imran Adham bin Azmin
 
-You can use the [editor on GitHub](https://github.com/ImranAdham/imranadham/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Currently a 17 year-old male student trying to achieve his dreams and passion. Very passionate in Mathematics, Physics And Chemistry. Natural leader and proven ability to manage time and improve workflow. Excellent communication skills with ability to build positive relationships with students and teachers. Analytical problem-solver. Strongly focused with the ability to complete tasks accurately in a fast-paced environment with conflicting deadlines.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Extra-curricular Achievements
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
