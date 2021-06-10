@@ -35,7 +35,8 @@ Currently a 17 year-old male student trying to achieve his dreams and passion. V
 ### 2016
 * 6As in Ujian Penilaian Sekolah Rendah
 
-
+<!-- Place this tag where you want the button to render. -->
+<github-button href="https://github.com/ntkme/github-buttons/archive/HEAD.zip" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</github-button>
 
 ### Jekyll Themes
 
