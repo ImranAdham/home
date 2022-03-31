@@ -5,14 +5,17 @@ Currently a 17 year-old male student trying to achieve his dreams and passion. V
 ## Academic And Extra-curricular Activities
 
 ### 2021
-* Silver Medal in Asia International Mathematical Olympiad Trial 2021
-* Silver Medal in Malaysia Young Scientists Conference & Exhibition 2021
+* Gold Medal in International Future Scientists Conference (iFSC) 
+* Silver Medal in Asia International Mathematical Olympiad Trial (AIMO Trial)
+* Silver Medal in Malaysia Young Scientists Conference & Exhibition (MYSCE)
+* Silver Medal in International Mathematical Olympiad National Selection Test (IMONST)
+* 7 As in SPM Trial
 
 ### 2020
-* Silver Medal in International Youth Math Challenge 2020
+* Silver Medal in International Youth Math Challenge
  * Pre-Finalist in International Youth Math Challenge (IYMC)
  * Participated in International Youth Math Challenge (IYMC)
-* Honourable Mention in International Mathematical Olympiad National Selection Test 2020
+* Honourable Mention in International Mathematical Olympiad National Selection Test (IMONST)
 * Honourable Mention in Kancil Science Competition 2020
 * Participated in National Science Challenge (NSC)
 * Participated in Minggu Sains Negara (MSN)
