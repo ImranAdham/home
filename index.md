@@ -10,6 +10,7 @@ Currently a 17 year-old male student trying to achieve his dreams and passion. V
 * Silver Medal in Malaysia Young Scientists Conference & Exhibition (MYSCE)
 * Silver Medal in International Mathematical Olympiad National Selection Test (IMONST)
 * 7 As in SPM Trial
+* 1480 in the SAT
 
 ### 2020
 * Silver Medal in International Youth Math Challenge
