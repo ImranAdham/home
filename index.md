@@ -5,7 +5,7 @@ Currently a 17 year-old male student trying to achieve his dreams and passion. V
 ## Academic And Extra-curricular Activities
 
 ### 2021
-* Gold Medal and Best Project Award in International Future Scientists Conference (iFSC) 
+* Gold Medal and Best Poster Award in International Future Scientists Conference (iFSC) 
 * Silver Medal in Asia International Mathematical Olympiad Trial (AIMO Trial)
 * Silver Medal in Malaysia Young Scientists Conference & Exhibition (MYSCE)
 * Silver Medal in International Mathematical Olympiad National Selection Test (IMONST)
